@@ -1,5 +1,8 @@
 # Change Log
 
+## 9999.0.0
+- Allow resources to be managed by attributes
+
 ## [v1.2.0](https://github.com/autotraderuk/chef-tuned/tree/v1.2.0) (2016-06-20)
 **Merged pull requests:**
 
